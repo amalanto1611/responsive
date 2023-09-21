@@ -1,0 +1,368 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.con{
+    width: 112%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0.5,0.5,0.7),rgba(0,0.5,0.5,0.7)),url(netsign.jpg);
+    background-size: cover;
+    background-position: center;
+    
+    
+    
+    
+}
+.nimg{
+    height: 100px;
+    width: 400px;
+    
+    position: relative;
+    top: 25px;
+    left: 150px;
+}
+.in{
+    height: 200px;
+    width: 300px;
+    
+    margin-top: -70px;
+    margin-left: 1000px;
+    display: flex;
+}
+.ins{
+    height: 30px;
+    width: 120px;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+.un{
+      height: 200px;
+      width: 1000px;
+             
+      margin-left: 200px;
+                 
+ }
+ .sign{
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+    
+    background-color: red;
+
+}
+.sign:hover{
+    cursor: pointer;
+    background: rgb(255, 33, 33);
+}
+.sign label:hover{
+    cursor: pointer;
+    background: rgb(255, 33, 33);
+
+}
+.inp{
+    margin-left: 350px;
+    display: flex;
+}
+.inp input{
+    transition: color 250ms cubic-bezier(0.5, 0, 0.1, 1) 0s;
+    background: transparent;
+    height: 60px;
+    width: 300px;
+    
+}
+
+.inpbu{
+    height: 62px;
+    width: 230px;
+    background-color: red;
+    border-radius: 6px;
+    
+}
+
+.inpbu:hover{
+    cursor: pointer;
+    background-color: rgb(193, 25, 25);
+}
+.sec{
+    height: 10px;
+    width: 100%;
+    background-color: gray;
+}
+.black{
+    height: 600px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+}
+.bls{
+    height: 400px;
+    width: 400px;
+    
+    position: relative;
+    top: 150px;
+    left: 200px;
+    
+}
+.bls h5{
+    color: white;
+    
+}
+.bl{
+    height: 200px;
+    width: 400px;
+    position: relative;
+    margin-top: 50px;
+    margin-left: 300px;
+}
+.bl video{
+    position: absolute;
+    bottom: -140px;
+    margin-left: 55px;
+
+  
+    
+    
+}
+.blacks{
+    height: 600px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+   
+}
+.str{
+      height: 500px;
+      width: 300px;
+      
+      position: relative;
+      top: 120px;
+      left: 170px;
+}
+.bo{
+    height: 90px;
+    width: 285px;
+    border-radius: 10px;
+    border: 2px solid gray;
+    position: relative;
+    top: -110px;
+    right: -118px;
+    background-color: black;
+
+}
+.down{
+    height: 300px;
+    width: 500px;
+  
+    position: relative;
+    left: 500px;
+    top: 200px;
+}
+.blacks2{
+    height: 600px;
+    width: 100%;
+    background-color: black;
+   display: flex;
+}
+.b11{
+    height: 300px;
+    width: 470px;
+    
+    margin-top: 200px;
+    margin-left: 130px;
+}
+.b12{
+    height: 300px;
+    width: 600px;
+    
+    margin-top: -200px;
+    margin-left: 550px;
+
+}
+.b12 video{
+    position: absolute;
+    height: 260px;
+    width: 300px;
+    right: 292px;
+}
+
+.blacks3{
+    height: 600px;
+    width: 100%;
+    background-color: black;
+   display: flex;
+}
+
+.cart{
+    height: 300px;
+    width: 400px;
+
+    margin-top: 100px;
+    margin-left: 160px;
+
+}
+.cart2{
+    height: 300px;
+    width: 500px;
+    
+    margin-top: 160px;
+    margin-left: 160px;
+
+
+}
+
+.black4{
+    height: 960px;
+    width: 100%;
+    background-color: black;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+    
+}
+.div1{
+    height: 70px;
+    width: 1000px;
+   
+    margin-left: 125px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+
+  
+
+}
+
+.div2{
+    height: 86px;
+    width: 1000px;
+    background-color:rgb(61, 55, 55);
+    margin-left: 125px;
+    margin-top: 10px;
+    
+}
+
+.div3{
+    height: 86px;
+    width: 1000px;
+    background-color:rgb(61, 55, 55);;
+    margin-left: 125px;
+    margin-top: 10px;
+    
+}
+
+.div4{
+    height: 86px;
+    width: 1000px;
+    background-color:rgb(61, 55, 55);;
+    margin-left: 125px;
+    margin-top: 10px;
+    
+}
+    
+.div5{
+    height: 86px;
+    width: 1000px;
+    background-color:rgb(61, 55, 55);;
+    margin-left: 125px;
+    margin-top: 10px;
+    
+}
+
+.div6{
+    height: 86px;
+    width: 1000px;
+    background-color:rgb(61, 55, 55);;
+    margin-left: 125px;
+    margin-top: 10px;
+    
+}
+
+.div7{
+    height: 86px;
+    width: 1000px;
+    background-color:rgb(61, 55, 55);;
+    margin-left: 125px;
+    margin-top: 10px;
+    
+}
+
+.div7:hover{
+    background-color: rgb(95, 84, 84);
+    cursor: pointer;
+}
+
+.div6:hover{
+    background-color: rgb(95, 84, 84);
+    cursor: pointer;
+}
+
+.div5:hover{
+    background-color: rgb(95, 84, 84);
+    cursor: pointer;
+}
+
+.div4:hover{
+    background-color: rgb(95, 84, 84);
+    cursor: pointer;
+}
+
+.div3:hover{
+    background-color: rgb(95, 84, 84);
+    cursor: pointer;
+}
+
+.div2:hover{
+    background-color: rgb(95, 84, 84);
+    cursor: pointer;
+}
+
+.black5{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+    
+}
+
+
+.fa{
+    display: flex;
+    margin-left: 87px;
+    
+}
+
+
+
+
+.fa1{
+    height: 600px;
+    width: 350px;
+
+    
+    
+}
+.fa2{
+    height: 300px;
+    width: 350px;
+    
+    
+}
+.fa3{
+    height: 300px;
+    width: 300px;
+    
+    
+}
+.fa1 label{
+    cursor: pointer;
+}
+.fa2 label{
+    cursor: pointer;
+}
+.fa3 label{
+    cursor: pointer;
+}
